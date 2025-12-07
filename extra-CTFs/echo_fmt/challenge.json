@@ -1,0 +1,9 @@
+{
+  "name": "echo_fmt",
+  "category": "pwn",
+  "description": "Format string vulnerability. Leak the secret and submit it.",
+  "author": "autogen",
+  "binary": "echo_fmt",
+  "flag_format": "flag{.*}",
+  "difficulty": "easy"
+}

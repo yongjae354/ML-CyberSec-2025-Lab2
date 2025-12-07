@@ -1,0 +1,9 @@
+{
+  "name": "hello_overflow",
+  "category": "pwn",
+  "description": "A basic buffer overflow. Overwrite the return address to call win().",
+  "author": "autogen",
+  "binary": "hello_overflow",
+  "flag_format": "flag{.*}",
+  "difficulty": "beginner"
+}

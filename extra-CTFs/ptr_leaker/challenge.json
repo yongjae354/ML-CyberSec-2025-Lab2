@@ -1,0 +1,9 @@
+{
+  "name": "ptr_leaker",
+  "category": "pwn",
+  "description": "Leak the secret by providing its address, then submit the secret.",
+  "author": "autogen",
+  "binary": "ptr_leaker",
+  "flag_format": "flag{.*}",
+  "difficulty": "easy"
+}
