@@ -1,1 +1,1 @@
-csawctf{ptr_leaker_success}
+flag{pointer_practice_success}

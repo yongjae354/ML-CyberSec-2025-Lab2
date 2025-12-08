@@ -1,1 +1,1 @@
-csawctf{echo_fmt_success}
+flag{fmt_string_master}
